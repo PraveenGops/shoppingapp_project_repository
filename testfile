@@ -6,4 +6,8 @@ this is to test the pipeline
 >>>>>>> 53fbe9a3c77762920da31504f65b66f69709be0e
 =======
 test1
+<<<<<<< HEAD
+>>>>>>> dev_region
+=======
+test2
 >>>>>>> dev_region
