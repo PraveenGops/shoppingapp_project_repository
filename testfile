@@ -10,4 +10,8 @@ test1
 >>>>>>> dev_region
 =======
 test2
+<<<<<<< HEAD
+>>>>>>> dev_region
+=======
+test3
 >>>>>>> dev_region
